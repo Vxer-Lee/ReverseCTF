@@ -3,7 +3,7 @@
 
 int main()
 {
-    char szDest[36]="gm`fzVdmb1ld^u1^Fhojf1^bug|";
+    char szDest[36]="..........................................";
     char szInput[104]={0};
     for ( int j = 0; j < 27; ++j )
     {

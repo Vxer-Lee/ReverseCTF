@@ -5,7 +5,7 @@ int  main(int argc, const char **argv, const char **envp)
 {
     //qmemcpy分析
     char szDest[33]={0}; // [esp-28h] [ebp-34h] BYREF
-	memcpy(szDest,"dnceyK]uclv]vm]rpmvgavgf]o{]amfg",sizeof(szDest));
+	memcpy(szDest,".....................................",sizeof(szDest));
 
     //加密算法分析
     #define byte unsigned char //byte就是无符号字符型
